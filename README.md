@@ -100,6 +100,10 @@ The resulting coordinate values, as well as the RGB values from the original res
 
 ![gif](https://github.com/youngseok-seo/stereo-vision/blob/master/3D.gif)
 
+## Execution
+
+`python3 stereo.py`
+
 ## References
 
 https://www.cse.usf.edu/~r1k/MachineVisionBook/MachineVision.files/MachineVision_Chapter11.pdf
