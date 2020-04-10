@@ -102,7 +102,9 @@ The resulting coordinate values, as well as the RGB values from the original res
 
 ## Execution
 
-`python3 stereo.py`
+```
+python3 stereo.py
+```
 
 ## References
 
